@@ -280,7 +280,6 @@ const customers = [
 
 ];
 
-//error
 let matchingCustomers = (custArray) => {
     let resultArray = [];
     for (let customer of custArray) {
